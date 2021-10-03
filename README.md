@@ -1,3 +1,4 @@
+php -f getfile.php 
 Penggunaan Get File Log 
 Gunakan "t" untuk flag type (Json / Text) 
 Gunakan "s" untuk flag file sumber 
